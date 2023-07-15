@@ -1,0 +1,26 @@
+{
+  "name": "renameimg-cli",
+  "version": "1.0.1",
+  "description": "将本地图片上传到百度通用图像识别，获得图像的中文释义，再通过有道翻译成英文，重新设置图片的名称。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rename": "index.js"
+  },
+  "keywords": [
+    "rename",
+    "cli"
+  ],
+  "author": "ysd",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "request-promise": "^4.2.6"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}

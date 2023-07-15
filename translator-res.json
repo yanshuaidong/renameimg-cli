@@ -1,0 +1,57 @@
+{
+    "returnPhrase": [
+        "你好"
+    ],
+    "query": "你好",
+    "errorCode": "0",
+    "l": "zh-CHS2en",
+    "tSpeakUrl": "https://openapi.youdao.com/ttsapi?q=hello&langType=en-USA&sign=0E68323587E498378B2BA20CF1DBEB3F&salt=1689407963952&voice=4&format=mp3&appKey=18fdaf87588a66a5&ttsVoiceStrict=false&osType=api",
+    "web": [
+        {
+            "value": [
+                "Hello",
+                "How do you do",
+                "hi",
+                "What's up"
+            ],
+            "key": "你好"
+        },
+        {
+            "value": [
+                "How are you",
+                "How Do You Do",
+                "Are You OK"
+            ],
+            "key": "你好吗"
+        },
+        {
+            "value": [
+                "Hey Cortana"
+            ],
+            "key": "你好小娜"
+        }
+    ],
+    "requestId": "392e3041-538f-4ae7-bfbc-6df9ae4faf49",
+    "translation": [
+        "hello"
+    ],
+    "mTerminalDict": {
+        "url": "https://m.youdao.com/m/result?lang=zh-CHS&word=%E4%BD%A0%E5%A5%BD"
+    },
+    "dict": {
+        "url": "yddict://m.youdao.com/dict?le=eng&q=%E4%BD%A0%E5%A5%BD"
+    },
+    "webdict": {
+        "url": "http://mobile.youdao.com/dict?le=eng&q=%E4%BD%A0%E5%A5%BD"
+    },
+    "basic": {
+        "phonetic": "nǐ hǎo",
+        "explains": [
+            "hello",
+            "hi",
+            "how do you do"
+        ]
+    },
+    "isWord": true,
+    "speakUrl": "https://openapi.youdao.com/ttsapi?q=%E4%BD%A0%E5%A5%BD&langType=zh-CHS&sign=AA6EAA19DB65B718165504272B9EC16A&salt=1689407963952&voice=4&format=mp3&appKey=18fdaf87588a66a5&ttsVoiceStrict=false&osType=api"
+}
